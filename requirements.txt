@@ -1,0 +1,10 @@
+flet==0.22.1
+pandas==1.5.3
+numpy==1.26.1
+openpyxl==3.1.2
+scikit-learn==1.3.1
+matplotlib==3.5.2
+optuna==3.6.1
+seaborn==0.13.2
+sklearn2pmml==0.107.0
+doepy3==0.0.9
